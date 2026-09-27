@@ -29,8 +29,7 @@ still representing how much beers straddle multiple categories.
 
 This started as a group final project for **STAT 437 (Unsupervised Learning)** at the
 University of Illinois Urbana-Champaign, with three contributors: Jason Ye, Kenshi
-King, and Yuda Zhu. **[Kenshi King]** was the primary contributor (~80% of the analysis
-and write-up) and independently revised and expanded the report afterward — addressing
+King, and Yuda Zhu. **[Kenshi King]** was the primary contributor (~65% of the original submission) and independently revised and expanded the report afterward — addressing
 instructor feedback and adding additional analysis — for use as a graduate school
 application portfolio piece.
 
